@@ -1,0 +1,17 @@
+.RandomPokemon {
+  border: 1px solid brown;
+  border-radius: 12px;
+  background-color: bisque;
+  font-family: Arial;
+  font-size: 20px;
+  text-align: center; 
+  
+}
+
+.RandomPokemon h1 {
+  color: blue;
+}
+
+.RandomPokemon img {
+  width: 500px;
+}
