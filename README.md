@@ -31,7 +31,7 @@ A simple React app that:
 ### Links
 
 - Solution URL: [GitHub](https://github.com/Ismail-SWE/random-pokemon)
-- Live Site URL: (coming soon)
+- Live Site URL: [Live Site](https://ismail-swe.github.io/RandomPokemon-game/)
 
 ---
 
