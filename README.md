@@ -30,7 +30,7 @@ A simple React app that:
 
 ### Links
 
-- Solution URL: [GitHub](https://github.com/Ismail-SWE/random-pokemon)
+- Solution URL: [GitHub](https://ismail-swe.github.io/RandomPokemon-game/)
 - Live Site URL: [Live Site](https://ismail-swe.github.io/RandomPokemon-game/)
 
 ---
